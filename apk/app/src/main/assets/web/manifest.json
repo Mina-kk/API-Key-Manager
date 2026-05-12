@@ -1,0 +1,16 @@
+{
+  "name": "API Key Manager",
+  "short_name": "API Keys",
+  "description": "AI API Key 管理与测试工具",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#06b6d4",
+  "icons": [
+    {
+      "src": "Mina.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }
+  ]
+}
